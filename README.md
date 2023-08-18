@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshatshaw currently a Uundergrad @IIT_ROORKEE. 
-- 👀 I’m interested in BLOCKCHAIN.
-- 🌱 I’m currently learning C++.
+- 👀 I’m interested in MACHINE LEARNING AND DATA SCIENCE.
+- 🌱 I’m currently learning C++, python (tensorflow).
 - 📫 @AkshatIITR telegram me.
 
 <!---
