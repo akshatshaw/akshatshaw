@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshatshaw currently a Uundergrad @IIT_ROORKEE. 
+- 👋 Hi, I’m @akshatshaw currently a 2nd year Undergrad @IIT_ROORKEE. 
 - 👀 I’m interested in MACHINE LEARNING AND DATA SCIENCE.
 - 🌱 I’m currently learning C++, python (tensorflow).
 - 📫 @AkshatIITR telegram me.
