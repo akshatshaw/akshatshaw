@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in MACHINE LEARNING AND DEEP LEARNING.
 
-- 🌱 I’m currently learning **NLP**, trying to build **Transformers** from scratch.
+- 🌱 I’m currently learning **NLP**, trying to build **Transformers** from scratch. ("update" I built a transformer)
 
 - 📫 EMAIL: **akshat_s1@mt.iitr.ac.in**
 
